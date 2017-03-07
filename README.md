@@ -74,7 +74,7 @@ A try of XSS data stealing by JSONP
   
  如此一來就已經有個雛型了，測試一下也頗為成功。
  
- <img src="http://imgur.com/Nwlz6Vj.jpg"></img>
+ <img src="http://imgur.com/qmvhRCf.jpg"></img>
 *在網頁元件中沒有看到新增的script元件 資料也有成功傳輸*
 
 到了這裡，可能會發現要使用這個方法有一個大問題。那就是在執行的時候一定要在瀏覽器端輸入javascript。要怎樣在不被發現的情況下輸入確實是一個大問題，目前也只想到一個方法，不過覺得還不夠理想。
